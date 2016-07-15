@@ -1,0 +1,19 @@
+{
+  "name": "malabar_soccer",
+  "version": "1.0.0",
+  "description": "a website for the malabar soccer club",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdiebold/malabar_soccer.git"
+  },
+  "author": "Chris Diebold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdiebold/malabar_soccer/issues"
+  },
+  "homepage": "https://github.com/cdiebold/malabar_soccer#readme"
+}
